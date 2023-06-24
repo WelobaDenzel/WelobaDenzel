@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Project SmartEye
+- 🌱 I’m currently learning Bard
 <!--
 **WelobaDenzel/WelobaDenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
