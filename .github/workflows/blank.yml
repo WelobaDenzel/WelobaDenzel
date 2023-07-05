@@ -1,0 +1,24 @@
+name: Daily Autocommit
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  autocommit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "Your Name"
+        git config --global user.email "your-email@example.com"
+
+    - name: Create commit
+      run: |
+        echo "Auto commit" >> file.txt
+        git commit -am "Daily autocommit"
+        git push
