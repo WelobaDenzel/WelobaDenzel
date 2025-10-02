@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="300" alt="Fun Animated GIF">
+  <img src="https://tenor.com/search/coding-gifs" width="300" alt="Fun Animated GIF">
 </p>
 
 > 💻 **Current Focus:** Learning React!
