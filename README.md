@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Project SmartEye
-- 🌱 I’m currently learning Bard
 <!--
 **WelobaDenzel/WelobaDenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pa0seqmi7qr8dpnde4rxo0qzd&cover_image=true&theme=default&show_offline=false&background_color=ff1414&interchange=false&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [![](https://visitcount.itsvg.in/api?id=WelobaDenzel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=WelobaDenzel&label=Profile%20Views&pretty=false" />
